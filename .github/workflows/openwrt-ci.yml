@@ -91,7 +91,7 @@ jobs:
            CONFIG_TARGET_ramips=y
            CONFIG_TARGET_ramips_mt7621=y
            CONFIG_TARGET_ramips_mt7621_DEVICE_ubnt_edgerouter-x=y
-		       EOF
+           EOF
 
           # 固件压缩:
           # cat >> .config <<EOF
